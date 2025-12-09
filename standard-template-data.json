@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2025-12-09T03:23:18.311Z",
+    "version": "1.3.0",
+    "generatedAt": "2025-12-09T05:12:55.037Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -922,17 +922,35 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_hero/1765249767887-6u1s19b13pm.jpg",
                     "sortOrder": 4,
                     "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "264e80fa-06fa-44aa-9fe3-8c4d8942fdb5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_hero/1765257070438-o9gqsosqt4.jpg",
+                    "sortOrder": 5,
+                    "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "closing": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "e5b103e0-3f5f-4fea-ab4a-b60e82cf39ae",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_closing/1765257070440-e90yqp0lukt.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "My lovable furry friend",
+                "images": [],
+                "description": "코지멍에서 잊지못할 추억을 만드세요~"
               },
               "gallery": {
                 "title": "",
@@ -940,7 +958,22 @@
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "25037568-dc61-475e-a352-32d389ca7369",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_signature/1765257070439-wwu6wbk8mi8.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d619a05a-cd86-42fa-b1e2-7c97b785fb76",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_signature/1765257070440-mwzb9ydmfr8.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               }
             }
           ]
@@ -981,30 +1014,37 @@
                 "title": "",
                 "images": [
                   {
+                    "id": "5bce36cf-98f4-4b70-b0dd-f4dde76dac00",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_hero/1765257142948-b8h3d2gxlnj.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "9d4a8a01-de44-4cb7-a605-75179ce83a5d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_hero/1765250494444-wdzz8u2qfrc.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "50d20840-5f67-49c1-9fd1-432fd69f3457",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_hero/1765250494444-2467c0jt8i8.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "750836fa-f6e5-4071-a8af-dd864a150657",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_hero/1765250494445-snyav0titoh.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "3c420bfc-b942-4358-bc32-f8b99e1b9a86",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_hero/1765250494445-ks89rymcuia.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   }
@@ -1050,7 +1090,7 @@
                   {
                     "id": "430594c3-11be-432e-b452-57c8fb67e1b8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/reservation_hero/1765250580260-c0j8erb1j5a.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
