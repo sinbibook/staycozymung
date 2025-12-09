@@ -1,1 +1,1 @@
-# staycozymung
+# template-full-banner-slider
