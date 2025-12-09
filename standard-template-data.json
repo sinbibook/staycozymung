@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2025-12-09T07:33:58.642Z",
+    "version": "1.10.0",
+    "generatedAt": "2025-12-09T07:54:36.504Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
   },
   "property": {
     "id": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
-    "name": "가평 스테이코지멍독채풀빌라",
+    "name": "가평 스테이코지멍 독채풀빌라",
     "description": "",
     "subtitle": "프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라",
     "address": "경기 가평군 상면 기와집길 287-35",
@@ -1150,10 +1150,12 @@
             "sections": [
               {
                 "hero": {
-                  "title": ""
+                  "title": " ",
+                  "images": []
                 },
                 "gallery": {
-                  "title": ""
+                  "title": "",
+                  "images": []
                 }
               }
             ]
