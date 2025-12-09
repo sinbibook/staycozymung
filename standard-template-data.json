@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2025-12-09T07:22:32.908Z",
+    "version": "1.8.0",
+    "generatedAt": "2025-12-09T07:30:34.623Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -837,28 +837,28 @@
               "id": "422a6749-6882-49fc-97d1-db2c78c39719",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765249490992-986jj5gsbu5.jpg",
               "sortOrder": 0,
-              "description": " ",
+              "description": "반려견과 함께하는 투숙을 환영합니다",
               "isSelected": true
             },
             {
-              "id": "b27bd3f4-76f5-4b94-bf46-22c5629902ed",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765249490993-m86j71s9pfd.jpg",
+              "id": "193d8eba-2c69-4424-ab00-15d813d81241",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765265277411-8tji0hbu1l.jpg",
               "sortOrder": 1,
-              "description": " ",
+              "description": "반려견의 자유로운 시간을 응원합니다",
               "isSelected": true
             },
             {
-              "id": "03355d2c-d505-486c-8c41-ae1cf05d6917",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765249490993-hwu4pa3laf9.jpg",
+              "id": "047429bd-247d-4b8e-8630-220afa2dce22",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765265189251-lrby5z0eouh.jpg",
               "sortOrder": 2,
-              "description": " ",
+              "description": "프라이빗한 풀빌라에서, 잊지 못할 시간을 시작하세요.",
               "isSelected": true
             },
             {
-              "id": "0d680faa-9569-4111-ade9-75d2cf7da5db",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765249490993-6j4auc1njup.jpg",
+              "id": "d625819e-179c-42ba-916c-2b5ac5457eb9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765265189251-duh8np0mwxo.jpg",
               "sortOrder": 3,
-              "description": " ",
+              "description": "따뜻한 불빛 속으로 초대합니다.",
               "isSelected": true
             }
           ]
