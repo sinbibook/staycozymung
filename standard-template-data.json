@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2025-12-09T07:30:34.623Z",
+    "version": "1.9.0",
+    "generatedAt": "2025-12-09T07:33:58.642Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -851,7 +851,7 @@
               "id": "047429bd-247d-4b8e-8630-220afa2dce22",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/a777fb37-f3d6-4f44-930b-5e760f538c5f/exterior/1765265189251-lrby5z0eouh.jpg",
               "sortOrder": 2,
-              "description": "프라이빗한 풀빌라에서, 잊지 못할 시간을 시작하세요.",
+              "description": "풀빌라에서 잊지 못할 시간을 시작하세요.",
               "isSelected": true
             },
             {
@@ -1150,12 +1150,10 @@
             "sections": [
               {
                 "hero": {
-                  "title": " ",
-                  "images": []
+                  "title": ""
                 },
                 "gallery": {
-                  "title": "",
-                  "images": []
+                  "title": ""
                 }
               }
             ]
