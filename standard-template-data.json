@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2025-12-15T03:38:25.761Z",
+    "version": "1.13.0",
+    "generatedAt": "2025-12-15T06:25:34.505Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -12,8 +12,8 @@
     "description": "",
     "subtitle": "프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라",
     "address": "경기 가평군 상면 기와집길 287-35",
-    "latitude": 0,
-    "longitude": 0,
+    "latitude": 37.7846748037787,
+    "longitude": 127.349431967161,
     "contactPhone": "010-5041-7357",
     "contactEmail": "cozymung@naver.com",
     "checkin": "15:00:00",
