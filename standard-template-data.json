@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-01-02T08:03:20.106Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-01-05T01:08:23.420Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -534,7 +534,7 @@
   "rooms": [
     {
       "id": "a777fb37-f3d6-4f44-930b-5e760f538c5f",
-      "name": "독채풀빌라(미온수무료, 불멍 무료이벤트)",
+      "name": "독채풀빌라(미온수무료, 반려견 1마리무료)",
       "description": "",
       "roomInfo": "※ 객실 내 취사도구 및 시설 완비",
       "group": null,
