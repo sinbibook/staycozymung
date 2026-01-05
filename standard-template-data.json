@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-01-05T01:08:23.420Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-01-05T01:10:40.974Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -1218,6 +1218,14 @@
                 "id": "20ba3d4b-d8d3-4917-af99-19aee77834bc",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/popup/1767340988031-21eqv8qxtba.png",
                 "sortOrder": 0,
+                "description": "",
+                "isSelected": false,
+                "blockId": "b2b67d03-2428-479a-9d6c-5b8f982e5d57"
+              },
+              {
+                "id": "4f0082ad-2484-49ee-b44b-bfadc85a23fd",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/popup/1767575422646-82yfuj3pybx.png",
+                "sortOrder": 1,
                 "description": "",
                 "isSelected": true,
                 "blockId": "b2b67d03-2428-479a-9d6c-5b8f982e5d57"
