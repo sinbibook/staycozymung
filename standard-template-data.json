@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-05-14T01:50:50.186794581Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-05-14T01:52:03.464833293Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -1406,6 +1406,21 @@
                 }
               }
             ]
+          },
+          {
+            "id": "ad531d52-6c0e-4dea-a785-d261a38d028b",
+            "sections": [
+              {
+                "hero": {
+                  "title": "분리형 : 침대룸A(퀸2)+침대룸B(더블1)+거실1+주방1+화장실1+개별바베큐장+수영장\n※ 객실 내 취사도구 및 시설 완비",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "",
+                  "images": [ ]
+                }
+              }
+            ]
           }
         ],
         "facility": [ ],
@@ -1989,7 +2004,7 @@
               "id": "9caf1f5a-2b8c-43a2-89a2-f1f1abe51252",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1769137824216-ly1ywcj6q99.jpg",
               "sortOrder": 0,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "a777fb37-f3d6-4f44-930b-5e760f538c5f",
               "category": "roomtype_exterior"
@@ -1998,7 +2013,7 @@
               "id": "3297963f-c052-4ac5-bd3a-7b70b5490e41",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1769137824216-yi948ifmbkp.jpg",
               "sortOrder": 1,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "a777fb37-f3d6-4f44-930b-5e760f538c5f",
               "category": "roomtype_exterior"
@@ -2007,7 +2022,7 @@
               "id": "07d2ecac-5312-48b8-9dbf-d73877d3ab8e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1769137824216-uju67a44hxn.jpg",
               "sortOrder": 2,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "a777fb37-f3d6-4f44-930b-5e760f538c5f",
               "category": "roomtype_exterior"
@@ -2016,7 +2031,7 @@
               "id": "808628de-0f45-4026-91d9-4d46836122cf",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1769137824216-l3zyrsmi5z.jpg",
               "sortOrder": 3,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "a777fb37-f3d6-4f44-930b-5e760f538c5f",
               "category": "roomtype_exterior"
@@ -2255,7 +2270,7 @@
               "id": "5588b6df-08d3-4426-ac76-49827b224927",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1778723443865-rblgdoe5ji.jpg",
               "sortOrder": 4,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "ad531d52-6c0e-4dea-a785-d261a38d028b",
               "category": "roomtype_exterior"
@@ -2264,7 +2279,7 @@
               "id": "ca50f05d-60f8-49de-9bbd-6a93850ec657",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1778723443855-dfben9jiye.jpg",
               "sortOrder": 5,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "ad531d52-6c0e-4dea-a785-d261a38d028b",
               "category": "roomtype_exterior"
@@ -2273,7 +2288,7 @@
               "id": "d5962c31-7915-474d-98f3-9ede39ad15cd",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/roomtype_exterior/1778723443855-jphj90jffc.jpg",
               "sortOrder": 6,
-              "description": "",
+              "description": " ",
               "isSelected": true,
               "blockId": "ad531d52-6c0e-4dea-a785-d261a38d028b",
               "category": "roomtype_exterior"
