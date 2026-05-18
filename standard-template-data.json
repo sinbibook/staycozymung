@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-05-14T01:52:03.464833293Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-05-18T05:56:12.186625972Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -494,7 +494,7 @@
           {
             "id": "c7a73e02-6133-4edb-866b-3756fe6c4e35",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/de6f7ad2-71e4-4e13-b3ac-8ad834920e63/exterior/1764922468627-tquyoi6w5cp.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -626,7 +626,7 @@
     ],
     "nameEn": "Gapyeong Stay Cozymung Private PoolVilla",
     "domain": "staycozymung.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/9959",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2038190325",
     "ybsId": "78851"
   },
   "rooms": [
@@ -1022,7 +1022,7 @@
     },
     {
       "id": "ad531d52-6c0e-4dea-a785-d261a38d028b",
-      "name": "독채 풀빌라(미온수무료, 반려견 1마리무료)",
+      "name": "독채풀빌라2 (미온수무료, 반려견 1마리무료)",
       "description": "",
       "roomInfo": "※ 객실 내 취사도구 및 시설 완비",
       "usageGuide": "",
@@ -1212,8 +1212,8 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [ ],
+                "description": " "
               },
               "closing": {
                 "title": " ",
@@ -1227,14 +1227,14 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [ ],
+                "description": " "
               },
               "essence": {
                 "title": "PET FRIENDLY PRIVATE STAY",
                 "images": [ ],
-                "description": "반려견과 머무는 따뜻한 휴식",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "반려견과 머무는 따뜻한 휴식"
               },
               "gallery": {
                 "title": "",
@@ -1269,8 +1269,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "",
-                "videos": [ ]
+                "videos": [ ],
+                "description": ""
               }
             }
           ]
