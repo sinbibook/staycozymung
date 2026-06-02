@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.45.0",
-    "generatedAt": "2026-06-02T02:02:22.858825813Z",
+    "version": "1.46.0",
+    "generatedAt": "2026-06-02T02:14:14.272050766Z",
     "templateType": "full_banner_wipe",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -1233,7 +1233,32 @@
               },
               "essence": {
                 "title": "PET FRIENDLY PRIVATE STAY",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "85e888c0-748b-406e-88ae-e7c20227d26d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_essence/1780366449625-cblqnqnma6.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "65e5ca3f-471b-401b-8b3b-5a7e0bcbe24e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_essence/1780366449637-lg8cs11ixi.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "9f30aefc-4b30-45be-bf90-ca77a4d8998a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_essence/1780366449614-w80jgtm4fi.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "description": "반려견과 머무는 따뜻한 휴식"
               },
