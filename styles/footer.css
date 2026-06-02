@@ -1,251 +1,237 @@
-/* Footer Styles */
+footer {
+    background-color: var(--color-secondary, #658399);
+    color: #fff;
+    padding: 40px 0;
+}
 
-/* Responsive Container */
-.responsive-container {
+.footer-wrap {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 20px;
 }
 
-@media (min-width: 768px) {
-    .responsive-container {
-        padding: 0 2rem;
-    }
-}
-
-@media (min-width: 1024px) {
-    .responsive-container {
-        padding: 0 3rem;
-    }
-}
-
-@media (max-width: 767px) {
-     footer {
-        padding: 0rem 0 2rem !important;
-    }
-}
-
-footer,
-footer.w-full,
-body footer {
-    background-color: var(--brand-color-primary) !important;
-    color: #ffffff;
-    padding: 3rem 0 2rem;
-    margin-top: 0;
-    width: 100%;
-    z-index: 10;
-    position: relative;
-    font-family: var(--font-ko-sub);
-}
-
-/* 소셜 링크 기본 스타일 - 모든 footer 내 소셜 링크에 적용 */
-footer a[data-homepage-socialLinks-facebook],
-footer a[data-homepage-socialLinks-instagram],
-footer a[data-homepage-socialLinks-blog],
-footer a[data-homepage-socialLinks-youtube] {
-    align-items: center;
-    justify-content: center;
-}
-
-/* JS에서 추가하는 hidden-social-link 클래스 */
-.hidden-social-link {
-    display: none !important;
-}
-
-.footer-container {
-    width: 100%;
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 0 2rem;
+.footer-content {
     display: flex;
-    flex-wrap: wrap;
+    align-items: center;
     justify-content: space-between;
-    align-items: flex-start;
-    gap: 3rem;
+    gap: 60px;
+    position: relative;
 }
 
-.footer-section {
-    flex: 1;
-    min-width: 300px;
+.footer-content::before {
+    content: '';
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 80px;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
-.footer-section h3 {
-    color: #ffffff;
-    margin-bottom: 1.5rem;
-    font-size: 1.5rem;
-    font-weight: 600;
-    font-family: var(--font-ko-sub);
+.footer-left {
+    flex: 0 0 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
-.footer-section p {
-    margin-bottom: 0.8rem;
-    line-height: 1.6;
-    color: #e2e8f0;
-    font-size: 1rem;
-    font-family: var(--font-ko-sub);
+.footer-logo-text {
+    font-family: var(--font-en-main);
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 1.2;
+    margin: 0;
 }
 
-.footer-section div {
-    margin-bottom: 0.8rem;
-    line-height: 1.6;
-    color: #e2e8f0;
-    font-size: 1rem;
-    font-family: var(--font-ko-sub);
+.footer-phone {
+    margin-top: 12px;
 }
 
-/* Footer 내부 space-y-3 안의 p 태그 스타일 */
-.space-y-3 p {
-    font-family: var(--font-ko-sub);
+.footer-phone-text {
+    font-size: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.footer-phone-text::before {
+    content: '📞';
+    font-size: 20px;
+    filter: brightness(0) invert(1);
+}
+
+.footer-right {
+    flex: 0 0 65%;
+    min-width: 0;
+    padding-left: 40px;
+}
+
+.footer-contact-info {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto;
+    gap: 35px 20px;
+    grid-template-areas:
+        "business social"
+        "business copyright";
+}
+
+.footer-business-info {
+    grid-area: business;
+}
+
+.footer-info-line {
+    font-size: 13px;
+    opacity: 0.9;
+    line-height: 1.8;
+    margin: 0;
+}
+
+.social-section {
+    grid-area: social;
+    text-align: right;
+}
+
+.footer-copyright {
+    grid-area: copyright;
+    font-size: 12px;
+    opacity: 0.8;
+    margin: 0;
+    text-align: right;
 }
 
 .social-links {
     display: flex;
-    gap: 1.5rem;
-    justify-content: flex-end;
+    gap: 8px;
     align-items: center;
+    justify-content: flex-end;
 }
 
-.social-links a {
-    color: #666666;
-    transition: color 0.3s ease, transform 0.3s ease;
-    display: flex !important;
+.social-icon {
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.15);
     border-radius: 50%;
-    background-color: #f8f9fa;
-    border: 1px solid #e9ecef;
+    text-decoration: none;
+    color: #fff;
+    font-size: 10px;
+    transition: all 0.3s ease;
 }
 
-.social-links a:hover {
-    color: #4d7959;
-    transform: translateY(-2px);
-    background-color: rgba(77, 121, 89, 0.1);
-    border-color: #4d7959;
-}
-
-.social-links a svg {
+.social-icon svg {
     width: 20px;
     height: 20px;
 }
 
-.footer-bottom {
-    width: 100%;
-    text-align: center;
+.social-icon:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+    transform: translateY(-1px);
 }
 
-.footer-bottom p {
-    margin: 0;
-    color: #a0aec0;
-    font-size: 0.9rem;
-    font-family: var(--font-ko-sub);
-}
-
-.footer-copyright,
-.footer-copyright a {
-    color: white;
-    text-decoration: none;
-}
-
-/* Responsive Design */
 @media (max-width: 768px) {
-    footer {
-        padding: 0;
-    }
-
-    .footer-container {
+    .footer-content {
         flex-direction: column;
-        padding: 0 1rem;
-        gap: 2rem;
-    }
-
-    .footer-section {
-        min-width: auto;
-        text-align: left;
-    }
-
-    .footer-section h3 {
-        font-size: 1.3rem;
-        margin-bottom: 1rem;
-    }
-
-    .footer-section div,
-    .footer-section p {
-        font-size: 0.9rem;
-        margin-bottom: 0.6rem;
-    }
-
-    .social-links {
-        justify-content: flex-start;
-        gap: 1.2rem;
-    }
-
-    .social-links a {
-        width: 44px;
-        height: 44px;
-    }
-
-    .social-links a svg {
-        width: 22px;
-        height: 22px;
-    }
-
-    .footer-bottom {
-        margin-top: 1.5rem;
-        padding-top: 1rem;
-    }
-}
-
-@media (max-width: 480px) {
-    footer {
-        padding: 0;
-        margin-top: 2rem;
-    }
-
-    .footer-container {
-        padding: 0 1rem;
-        gap: 1.5rem;
+        align-items: center;
+        gap: 30px;
         text-align: center;
     }
 
-    .footer-section {
+    .footer-content::before {
+        display: none;
+    }
+
+    .footer-left {
+        flex: none;
+        align-self: center;
         text-align: center;
     }
 
-    .footer-section h3 {
-        font-size: 1.2rem;
-        margin-bottom: 0.8rem;
-    }
-
-    .footer-section div,
-    .footer-section p {
-        font-size: 0.85rem;
-        margin-bottom: 0.5rem;
-        line-height: 1.5;
-    }
-
-    .social-links {
-        gap: 1rem;
+    .footer-phone-text {
+        font-size: 20px;
         justify-content: center;
     }
 
-    .social-links a {
-        width: 40px;
-        height: 40px;
+    .footer-right {
+        flex: none;
+        padding-left: 0;
+        align-self: stretch;
+        width: 100%;
     }
 
-    .social-links a svg {
-        width: 20px;
-        height: 20px;
+    .footer-contact-info {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+        gap: 20px;
+        grid-template-areas:
+            "business"
+            "social"
+            "copyright";
+        text-align: center;
     }
 
-    .footer-bottom {
-        margin-top: 1rem;
-        padding-top: 0.8rem;
+    .social-section {
+        text-align: center;
+        margin-top: 15px;
     }
 
-    .footer-bottom p {
-        font-size: 0.8rem;
+    .footer-copyright {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .social-links {
+        justify-content: center;
+    }
+}
+
+/* Top Button Styles */
+.top-button {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--color-secondary, #658399);
+    opacity: 0.8;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.top-button:hover {
+    background-color: var(--color-secondary, #658399);
+    opacity: 0.7;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.top-button.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.top-button svg {
+    width: 24px;
+    height: 24px;
+}
+
+/* Hide on mobile devices */
+@media (max-width: 768px) {
+    .top-button {
+        display: none;
     }
 }
