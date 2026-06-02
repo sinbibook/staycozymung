@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "version": "1.44.0",
-    "generatedAt": "2026-06-02T01:38:55.448358160Z",
-    "templateType": "full_banner_slider",
+    "version": "1.45.0",
+    "generatedAt": "2026-06-02T02:02:22.858825813Z",
+    "templateType": "full_banner_wipe",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
   },
   "property": {
     "id": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "name": "가평 스테이코지멍 독채풀빌라",
+    "nameEn": "Gapyeong Stay Cozymung Private PoolVilla",
     "description": "",
     "subtitle": "프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라",
     "address": "경기 가평군 상면 기와집길 287-35",
@@ -23,6 +24,9 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경기도",
     "city": "가평군",
+    "domain": "staycozymung.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2038190325",
+    "ybsId": "78851",
     "amenities": [ ],
     "nearbyAttractions": [
       "산"
@@ -623,11 +627,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Gapyeong Stay Cozymung Private PoolVilla",
-    "domain": "staycozymung.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/2038190325",
-    "ybsId": "78851"
+    ]
   },
   "rooms": [
     {
@@ -1081,6 +1081,7 @@
     }
   ],
   "homepage": {
+    "id": "dddb483c-f785-48ab-929e-0cdaa37fbc0c",
     "domain": "staycozymung.kr",
     "templateType": "full_banner_wipe",
     "images": [
@@ -1352,7 +1353,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "가평 스테이코지멍 독채 풀빌라 ",
                 "images": [
                   {
                     "id": "5bce36cf-98f4-4b70-b0dd-f4dde76dac00",
@@ -1395,39 +1396,38 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
               "about": [
                 {
-                  "title": "",
+                  "title": " ",
                   "images": [
-                    {
-                      "id": "cff4e72c-e825-464f-8733-90c8b099038d",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_about/1765250494445-8s7287g1ct8.jpg",
-                      "sortOrder": 0,
-                      "description": "",
-                      "isSelected": false,
-                      "blockId": "c1fbe904-e3c4-4ad8-9f57-5ad3b5a7711d"
-                    },
-                    {
-                      "id": "a628b805-4204-47c7-81e9-f69d22d79d10",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_about/1765250494445-i733j016jn.jpg",
-                      "sortOrder": 1,
-                      "description": "",
-                      "isSelected": false,
-                      "blockId": "c1fbe904-e3c4-4ad8-9f57-5ad3b5a7711d"
-                    },
                     {
                       "id": "1cedd7b8-f95f-4339-8313-a50ae94d9d2b",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_about/1765262962799-x5gcz018toj.jpg",
-                      "sortOrder": 2,
+                      "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "c1fbe904-e3c4-4ad8-9f57-5ad3b5a7711d"
                     }
                   ],
                   "blockId": "c1fbe904-e3c4-4ad8-9f57-5ad3b5a7711d",
-                  "description": "프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, \n가평 스테이코지멍 독채 풀빌라"
+                  "description": "프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, \n"
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "e2bccb13-78d0-44be-bccd-0c0affc999fe",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/main_about/1780365457951-ca0nbs02w5.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "39380c75-db6f-45c4-b4e5-f5227faa9cc5"
+                    }
+                  ],
+                  "blockId": "39380c75-db6f-45c4-b4e5-f5227faa9cc5",
+                  "description": "단독 독채 객실로 운영되어 반려견과 함께 더욱 프라이빗하고 편안한 휴식을 즐길 수 있습니다.\n사랑하는 반려견과 오롯이 머무르며 여유로운 추억을 만들어보세요. 🐾✨"
                 }
               ]
             }
@@ -1514,10 +1514,10 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         }
       },
@@ -1546,7 +1546,19 @@
           }
         ]
       },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": {
+          "primary": "#F2F0ED",
+          "secondary": "#6F472F"
+        }
+      },
       "property": {
+        "name": "가평 스테이코지멍 독채풀빌라",
         "images": [
           {
             "id": "350c2897-d2d6-48ea-99b4-98915d349cfd",
@@ -1702,7 +1714,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "가평 스테이코지멍 독채풀빌라",
         "nameEn": "Stay Cozymung"
       },
       "roomtypes": [
@@ -2337,19 +2348,7 @@
             }
           ]
         }
-      ],
-      "theme": {
-        "font": {
-          "koSub": null,
-          "enMain": null,
-          "koMain": null
-        },
-        "color": {
-          "primary": "#F2F0ED",
-          "secondary": "#6F472F"
-        }
-      }
-    },
-    "id": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
+      ]
+    }
   }
 }
