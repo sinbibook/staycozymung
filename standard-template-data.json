@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-06-02T02:14:14.272050766Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-06-02T02:45:02.967897404Z",
     "templateType": "full_banner_wipe",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -633,7 +633,7 @@
     {
       "id": "a777fb37-f3d6-4f44-930b-5e760f538c5f",
       "name": "독채풀빌라(미온수무료, 반려견 1마리무료)",
-      "description": "",
+      "description": "독채형, 거실1+침대룸(퀸침대2)+침대룸(더블침대1)+주방1+화장실1+개별수영장+애견운동장",
       "roomInfo": "※ 객실 내 취사도구 및 시설 완비",
       "usageGuide": "",
       "group": null,
@@ -651,7 +651,7 @@
         "퀸 베드",
         "더블 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [ ],
       "amenities": [
         "발코니",
         "헤어드라이어",
@@ -1023,7 +1023,7 @@
     {
       "id": "ad531d52-6c0e-4dea-a785-d261a38d028b",
       "name": "독채풀빌라2 (미온수무료, 반려견 1마리무료)",
-      "description": "",
+      "description": "독채형, 거실1+침대룸(퀸침대2)+침대룸(더블침대1)+주방1+화장실1+개별수영장+애견운동장",
       "roomInfo": "※ 객실 내 취사도구 및 시설 완비",
       "usageGuide": "",
       "group": null,
