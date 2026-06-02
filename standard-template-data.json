@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-05-29T01:17:53.856309229Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-06-02T01:38:55.448358160Z",
     "templateType": "full_banner_slider",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -1082,7 +1082,7 @@
   ],
   "homepage": {
     "domain": "staycozymung.kr",
-    "templateType": "full_banner_slider",
+    "templateType": "full_banner_wipe",
     "images": [
       {
         "logo": [ ]
@@ -1105,7 +1105,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "가평 스테이코지멍",
                 "images": [
                   {
                     "id": "536201cf-2568-49d2-83bd-a1a6335cb82b",
@@ -1237,9 +1237,51 @@
                 "description": "반려견과 머무는 따뜻한 휴식"
               },
               "gallery": {
-                "title": "",
-                "images": [ ],
-                "videos": [ ]
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "410dd226-eaae-4b73-9883-4a79a758eb5d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_gallery/1780364085341-71zcnnne7o.jpg",
+                    "sortOrder": 0,
+                    "description": "애견운동장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "a53cc6f0-b198-467b-8474-d655a2a28a99",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_gallery/1780364085058-itc07cu9ae.jpg",
+                    "sortOrder": 1,
+                    "description": "바베큐장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "6e063da1-53ab-4765-ba62-328c53dcb15d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_gallery/1780364085255-8x0ldn0ziy.jpg",
+                    "sortOrder": 2,
+                    "description": "애견동반",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "397e1b83-46fa-44ef-89cc-8d1efb047a5a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_gallery/1780364085348-doz2fcs6ms.jpg",
+                    "sortOrder": 3,
+                    "description": "독채",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "77d118e8-d479-4606-8cfd-9bc22dfc81eb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/dddb483c-f785-48ab-929e-0cdaa37fbc0c/index_gallery/1780364085141-3d3u5fdufj.jpg",
+                    "sortOrder": 4,
+                    "description": "객실내부",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "videos": [ ],
+                "description": "가평 스테이코지멍 독채풀빌라를 미리 만나보세요"
               },
               "signature": {
                 "title": "",
@@ -1661,7 +1703,7 @@
           }
         ],
         "name": "가평 스테이코지멍 독채풀빌라",
-        "nameEn": "Gapyeong Stay Cozymung Private PoolVilla"
+        "nameEn": "Stay Cozymung"
       },
       "roomtypes": [
         {
@@ -2295,7 +2337,18 @@
             }
           ]
         }
-      ]
+      ],
+      "theme": {
+        "font": {
+          "koSub": null,
+          "enMain": null,
+          "koMain": null
+        },
+        "color": {
+          "primary": "#F2F0ED",
+          "secondary": "#6F472F"
+        }
+      }
     },
     "id": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
   }
