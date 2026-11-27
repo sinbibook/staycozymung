@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Footer Component</title>
+    <title>가평 스테이코지멍 독채풀빌라</title>
     <link rel="stylesheet" href="styles/footer.css">
   <!-- Open Graph Meta Tags for Social Media -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="가평 스테이코지멍 독채풀빌라" />
-  
-  <meta property="og:image" content="https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/de6f7ad2-71e4-4e13-b3ac-8ad834920e63/thumbnail/1764922468570-xj2tur7mc1o.jpg" />
+  <meta property="og:description" content="프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라" />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/IuKlWUsBacgn.jpg" />
   <meta property="og:url" content="https://staycozymung.kr" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="가평 스테이코지멍 독채풀빌라" />
-  
-  <meta name="twitter:image" content="https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/de6f7ad2-71e4-4e13-b3ac-8ad834920e63/thumbnail/1764922468570-xj2tur7mc1o.jpg" />
+  <meta name="twitter:description" content="프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라" />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/IuKlWUsBacgn.jpg" />
 </head>
 <body>
     <!-- Footer Component -->
@@ -26,7 +26,7 @@
             <!-- Left Section - 30% -->
             <div class="footer-left">
                 <div class="footer-logo-image">
-                    <!-- <img data-footer-logo src="images/logo.png" alt="로고" class="footer-logo-img"> -->
+                    <img data-footer-logo alt="로고" class="footer-logo-img" style="display:none;">
                 </div>
                 <div class="footer-logo-text" data-footer-logo-text></div>
                 <div class="footer-phone">
@@ -78,6 +78,13 @@
                         </div>
                     </div>
                     <div class="footer-copyright">
+                        <!-- data-* 속성 : data-footer-rural-stay-mark-wrap (customFields.footer.ruralStayMarks (최대 두 장, 단일 ruralStayMark 호환)가 있을 때만 노출, 기본 숨김)
+                             data-footer-rural-stay-mark : 농어촌민박사업자 이미지 (표시마크 + 신고번호, alt = description) -->
+                        <div class="footer-rural-stay-mark-wrap" data-footer-rural-stay-mark-wrap style="display: none;">
+                            <img class="footer-rural-stay-mark" src="" alt="농어촌민박사업자" data-footer-rural-stay-mark>
+                            <img class="footer-rural-stay-mark" src="" alt="농어촌민박사업자" data-footer-rural-stay-mark>
+                        </div>
+                        <a href="#" target="_blank" rel="noopener noreferrer" data-footer-calendar-link style="display: none;">실시간 달력</a>
                         <p data-footer-copyright></p>
                     </div>
                 </div>

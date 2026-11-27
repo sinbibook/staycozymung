@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.54.0",
-    "generatedAt": "2026-11-27T00:58:47.462738285Z",
+    "version": "1.55.0",
+    "generatedAt": "2026-11-27T00:59:13.096521632Z",
     "templateType": "full_banner_wipe",
     "propertyId": "de6f7ad2-71e4-4e13-b3ac-8ad834920e63",
     "homepageId": "dddb483c-f785-48ab-929e-0cdaa37fbc0c"
@@ -29,6 +29,9 @@
     "domain": "staycozymung.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/2038190325",
     "ybsId": "78851",
+    "tripPropertyId": "9959",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -48,8 +51,7 @@
       "businessEmail": "cozymung@naver.com",
       "businessType": "corporate",
       "businessCategory": "숙박",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -567,10 +569,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "9959",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
