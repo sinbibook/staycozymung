@@ -3,9 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="숙소 설명">
-  <meta name="keywords" content="SEO 키워드">
-  <title>Main - 템플릿</title>
+  <title>가평 스테이코지멍 독채풀빌라 - 숙소소개</title>
 
   <!-- Preload critical resources -->
   <link rel="preload" href="styles/common.css" as="style">
@@ -18,23 +16,39 @@
   <!-- Open Graph Meta Tags for Social Media -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="가평 스테이코지멍 독채풀빌라 - 숙소소개" />
-  
-  <meta property="og:image" content="https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/de6f7ad2-71e4-4e13-b3ac-8ad834920e63/thumbnail/1764922468570-xj2tur7mc1o.jpg" />
+  <meta property="og:description" content="프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라" />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/IuKlWUsBacgn.jpg" />
   <meta property="og:url" content="https://staycozymung.kr" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="가평 스테이코지멍 독채풀빌라 - 숙소소개" />
-  
-  <meta name="twitter:image" content="https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/de6f7ad2-71e4-4e13-b3ac-8ad834920e63/thumbnail/1764922468570-xj2tur7mc1o.jpg" />
+  <meta name="twitter:description" content="프라이빗한 단독 풀빌라에서 반려견과 보내는 즐거운 휴식, 가평 스테이코지멍 독채 풀빌라" />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/IuKlWUsBacgn.jpg" />
 </head>
 <body>
 
   <main>
       <section class="page-hero-section">
-        <!-- CUSTOM FIELD : 메인 소개 섹션 이미지 매핑 1장 -->
+        <!-- CUSTOM FIELD : 메인 소개 섹션 이미지 매핑 (1장이면 고정 이미지, 2장 이상이면 슬라이더) -->
           <div class="hero-background">
-              <img data-main-hero-img>
+              <div class="slider" data-main-hero-slider>
+                  <!-- 동적으로 슬라이드가 생성됩니다 -->
+              </div>
+          </div>
+          <!-- Slider Navigation (index 메인 히어로와 같은 버튼·프로그레스바, 타이틀에 맞춰 중앙 정렬) - 이미지 2장 이상일 때만 노출 -->
+          <div class="main-hero-nav-overlay" data-main-hero-nav>
+              <div class="main-hero-nav-container">
+                  <div class="slider-nav">
+                      <div class="slider-buttons">
+                          <button type="button" class="slider-btn prev" aria-label="이전 이미지">‹</button>
+                          <button type="button" class="slider-btn next" aria-label="다음 이미지">›</button>
+                      </div>
+                      <div class="progress-container">
+                          <div class="progress-bar"></div>
+                      </div>
+                  </div>
+              </div>
           </div>
           <!-- 페이지 제목 하드코딩 fixed -->
           <div class="page-title">
